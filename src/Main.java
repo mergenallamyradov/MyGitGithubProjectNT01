@@ -7,5 +7,13 @@ public class Main {
         System.out.println("Learn Java Earn money");
         //V3
 
+
+        System.out.println("Don't forget to put dot while traveling between versions");
+        //V3
+        System.out.println();
+        //mrg3
+
+        //make some changes in locale git
+
     }
 }
